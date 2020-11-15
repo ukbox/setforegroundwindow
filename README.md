@@ -1,1 +1,1 @@
-# setforegroundwindow
+# OpenMauSuji Plugin setforegroundwindow
